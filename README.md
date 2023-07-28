@@ -26,16 +26,3 @@ This is a simple calculator application written in Java using Swing, a graphical
 ## Note
 - The calculator handles integer arithmetic only. Decimals and floating-point numbers are not supported.
 - Division by zero is not handled in this version of the calculator, so be cautious when performing division operations.
-
-## Future Improvements
-This calculator application is a basic implementation and can be enhanced in various ways, including:
-- Adding support for decimal numbers and floating-point arithmetic.
-- Implementing more complex operations (e.g., exponentiation, square root, trigonometric functions).
-- Adding keyboard input support to enable users to input numbers and perform calculations using the keyboard.
-- Improving the user interface with better styling and layout.
-
-## Authors
-This calculator application was developed by [Your Name]. (You may include your name or contact information here if you'd like.)
-
-## License
-This calculator application is provided under the [LICENSE] license. (Replace [LICENSE] with the appropriate license name or leave it blank if not applicable.)
